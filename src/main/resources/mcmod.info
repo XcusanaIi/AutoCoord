@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autocoord",
+  "name": "Auto Coord",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["XcusanaIi"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
